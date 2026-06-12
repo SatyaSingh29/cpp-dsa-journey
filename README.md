@@ -18,6 +18,14 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 - First Occurrence
 - Last Occurrence
 - Reverse Array
+- 
+- ### Functions
+
+- Add Two Numbers
+- Maximum of Two Numbers
+- Even or Odd
+- Factorial
+- Prime Number Check
 
 ## Current Focus
 
@@ -28,7 +36,6 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 
 ## Upcoming Topics
 
-- Functions
 - Strings
 - OOP
 - Data Structures
