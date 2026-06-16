@@ -27,6 +27,19 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 - Factorial
 - Prime Number Check
 
+### Strings
+
+- Reverse String
+- Palindrome Check
+- Character Frequency
+- Highest Frequency Character
+- Remove Duplicate Characters
+- Count Words
+-First Non-Repeating Character
+- String Sorting
+- Anagram Check
+- Replace Character
+
 ## Current Focus
 
 - C++
@@ -36,6 +49,6 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 
 ## Upcoming Topics
 
-- Strings
+-Pointers
 - OOP
 - Data Structures
