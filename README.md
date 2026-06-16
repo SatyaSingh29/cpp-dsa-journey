@@ -49,6 +49,6 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 
 ## Upcoming Topics
 
--Pointers
+- Pointers
 - OOP
 - Data Structures
