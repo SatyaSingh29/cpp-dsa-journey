@@ -19,7 +19,7 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 - Last Occurrence
 - Reverse Array
 
-- ### Functions
+ ### Functions
 
 - Add Two Numbers
 - Maximum of Two Numbers
@@ -40,6 +40,16 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 - Anagram Check
 - Replace Character
 
+### Pointers 
+
+* Pointer Basics
+* Pointer Arithmetic
+* Arrays and Pointers
+* Pointer Functions
+* Swap & Modification Using Pointers
+* Array Operations Using Pointers
+* Pointer to Pointer Basics
+
 ## Current Focus
 
 - C++
@@ -49,6 +59,5 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 
 ## Upcoming Topics
 
-- Pointers
 - OOP
 - Data Structures
