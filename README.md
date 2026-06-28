@@ -35,7 +35,7 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 - Highest Frequency Character
 - Remove Duplicate Characters
 - Count Words
--First Non-Repeating Character
+- First Non-Repeating Character
 - String Sorting
 - Anagram Check
 - Replace Character
@@ -50,14 +50,31 @@ This repository documents my journey of learning C++, Data Structures & Algorith
 * Array Operations Using Pointers
 * Pointer to Pointer Basics
 
+### Object-Oriented Programming (OOP)
+
+- Classes and Objects
+- Encapsulation
+- Constructors
+- `this` Pointer
+- Inheritance
+- Function Overloading
+- Function Overriding
+- Virtual Functions
+- Abstraction
+
+## Projects
+
+- Student Management System (C++)
+
 ## Current Focus
 
 - C++
+- STL
 - DSA
 - Problem Solving
 - GitHub
 
 ## Upcoming Topics
 
-- OOP
+- STL (Standard Template Library )
 - Data Structures
